@@ -1,4 +1,5 @@
-public class Command {
+
+class Command {
     private Snapshot backup;
     private final Editor editor;
 
