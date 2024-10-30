@@ -1,4 +1,4 @@
-public class Editor {
+class Editor {
     private String text;
     private int curX, curY, selectionWidth;
 
