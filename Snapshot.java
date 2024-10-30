@@ -1,4 +1,4 @@
-public class Snapshot {
+class Snapshot {
     private final Editor editor;
     private final String text;
     private final int curX;
